@@ -1,8 +1,8 @@
 # suduku-solver
-win form project for solve given suduku
+win form project for solve given suduku.
 
-##not solve
-only solve or help very easy suduku
+## not solve yet
+only solve or help on very easy suduku.
 
 ## Todo
-need new analyser
+need new analysis!
