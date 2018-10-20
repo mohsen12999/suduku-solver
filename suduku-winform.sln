@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "suduku-winform", "suduku-winform\suduku-winform.csproj", "{4E05DD8A-2841-4AE3-912E-E502D29AE7EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E05DD8A-2841-4AE3-912E-E502D29AE7EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E05DD8A-2841-4AE3-912E-E502D29AE7EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E05DD8A-2841-4AE3-912E-E502D29AE7EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E05DD8A-2841-4AE3-912E-E502D29AE7EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31C9A729-9147-48E3-A004-7C6A729E60B2}
+	EndGlobalSection
+EndGlobal
